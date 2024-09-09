@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>成果公示 on SSCS课题组</title>
+    <link>https://deepin-community.github.io/sig-deepin-sscs/tags/%E6%88%90%E6%9E%9C%E5%85%AC%E7%A4%BA/</link>
+    <description>Recent content in 成果公示 on SSCS课题组</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2024 16:33:20 +0800</lastBuildDate>
+    <atom:link href="https://deepin-community.github.io/sig-deepin-sscs/tags/%E6%88%90%E6%9E%9C%E5%85%AC%E7%A4%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deepin通用软件包标识化工具发布</title>
+      <link>https://deepin-community.github.io/sig-deepin-sscs/posts/deepin-sbom-tools/</link>
+      <pubDate>Mon, 09 Sep 2024 16:33:20 +0800</pubDate>
+      <guid>https://deepin-community.github.io/sig-deepin-sscs/posts/deepin-sbom-tools/</guid>
+      <description>&lt;p&gt;deepin universal package identification tool&lt;/p&gt;&#xA;&lt;p&gt;package-sbom-tool用于针对通用软件包生成符合SPDX标准的SBOM信息。 它是一个命令行工具，工具所采集的软件包信息包括了文件组成、依赖信息、版权、许可证。 工具产生的SBOM信息符合SPDX v2.3规范。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>软件供应链安全课题组现已建立!</title>
+      <link>https://deepin-community.github.io/sig-deepin-sscs/posts/hello-sscs/</link>
+      <pubDate>Wed, 26 Jun 2024 14:00:00 +0800</pubDate>
+      <guid>https://deepin-community.github.io/sig-deepin-sscs/posts/hello-sscs/</guid>
+      <description>&lt;p&gt;oftware Supply Chain Security SIG - 软件供应链安全&lt;/p&gt;&#xA;&lt;p&gt;本小组致力于操作系统供应链安全研究及推广，包含应用层软件统一标识化、适配依赖分析与优化管理工具链等开发及应用。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
